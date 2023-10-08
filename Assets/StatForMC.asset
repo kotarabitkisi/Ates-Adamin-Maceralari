@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02f5bb7d49f18047930c06956b05bf7, type: 3}
+  m_Name: StatForMC
+  m_EditorClassIdentifier: 
+  health: 200
+  attack: 5
+  defense: 5
+  penetration: 5
+  maxhealth: 200
+  experience: 0
+  experienceforlevelup: 50
+  level: 1
+  speed: 200
+  skillpoint: 0
+  healthsp: 0
+  attacksp: 0
+  defensesp: 0
+  penetrationsp: 0
+  speedsp: 0
+  experiencegainsp: 0
+  ZombieBossKillCount: 0
+  SlimeGirlBossKillCount: 0
+  SkeletonKingBossKillCount: 0
